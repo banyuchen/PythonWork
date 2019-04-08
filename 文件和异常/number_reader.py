@@ -9,4 +9,3 @@ except FileNotFoundError:
 else:
     print(numbers)
 
-
