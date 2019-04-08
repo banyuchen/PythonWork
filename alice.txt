@@ -1,0 +1,32 @@
+TWO CHINESE SOFTWARE developers are trying to harness the power of open source software to improve working conditions for coders.
+
+Last weekend, Katt Gu and Suji Yan, published the “Anti-996 License,” which requires any company that uses the project's software to comply with local labor laws as well as International Labour Organization standards, including the right for workers to collectively bargain and a ban on forced labor.
+
+The license is part of the growing Anti-996 Movement in China, which refers to a common schedule of working from 9 am to 9 pm, six days a week. This grueling schedule is allegedly widespread in the Chinese tech startup industry, according to a story in the South China Morning Post last month. Last week, one or more anonymous activists launched a website called 996.ICU, detailing Chinese labor laws that a 996 schedule may violate, including provisions that generally limit work to 44 hours a week and require overtime pay. The activists also launched a site, or "repository," on the code-sharing and collaboration site GitHub, which has quickly become one of GitHub's fastest growing repositories ever. It now has more Stars—sort of like Likes on Facebook—than Google's open source artificial intelligence framework TensorFlow or Facebook's user interface library React.
+
+Open source software is widely used and essential to many products and services; in 2014, the Heartbleed vulnerability in the widely used open source security software OpenSSL prompted a minor crisis on the internet. More than 75 projects have adopted the Anti-996 License, which is a standard open source license apart from its labor requirements, though it’s not clear how important those projects are to major companies. It attempts to leverage the potential power that open source developers have over companies that use their software.
+
+After the launch of 996.ICU, GitHub users compiled a list of companies that allegedly require a 996 schedule, including ecommerce giant Alibaba, drone maker DJI, and Bytedance, the company behind the popular video-sharing app TikTok. Those companies did not respond to WIRED's requests for comment. Others, meanwhile, compiled a list of companies that reportedly provide a better work-life balance.
+
+Gu and Yan say they weren't involved in creating the 996.ICU site but saw a comment on a Chinese forum for programmers suggesting that an open source license that highlighted labor conditions could be more powerful than lists of companies. Gu, a US-trained lawyer who works as a legal consultant and head of US market for Yan’s Shanghai-based startup Dimension, had rare experience in both law and the software industry. So with input from Yan, she drafted the Anti-996 License.
+
+Although the Anti-996 Movement started in China, Gu and Yan say they don't think working conditions for programmers are worse in China than elsewhere. As the list of good companies to work for demonstrates, not all companies in China demand a 996 schedule, Yan points out. He says he spent time working in Tokyo and that the conditions in Japan are worse. And of course, US tech workers are notorious for putting in long hours.
+
+Gu explains that they didn't want to impose a set of specific labor requirements, such as a maximum number of hours per week that employees could work. "I'm a workaholic myself," says Gu, who says working long hours should be an employee’s choice but that workers forced to put in extra hours should be paid overtime. Gu and Yan decided to focus on laws and standards, since companies that require employees to follow a 996 schedule without paying overtime are likely in violation of Chinese labor law. "We don't want to talk about politics," she says. "We just want companies to comply with the law."
+
+To discourage companies from moving operations to countries with less-strict labor laws, the Anti-996 License specifies that a company must comply with laws of the countries where it is registered, where it operates, or where its employees are physically located, whichever are the most strict. The authors included the reference to the International Labour Organization's core standards to cover countries that don't have labor laws or don't provide equal labor protections to certain groups, such as women or minorities.
+
+Open Source Activism
+Gu and Yan aren't the first to try to use open source for activism. “There is a trend to use license terms to advance ethical behavior by licensees," says open source legal expert Heather Meeker.
+
+In 2006, a peer-to-peer computing application called GPU was released under a license that forbade use of the software by the military. Last year, a contributor to the open source code-management tool Lerna briefly changed the project's license to ban US Immigration and Customs Enforcement, or organizations working with ICE, from using the software.
+
+Historically, these sorts of licenses haven't been widely adopted and often receive pushback from the broader open source community for trying to restrict how open source software is used. Meeker says the Anti-996 License may, like other activist licenses, violate the definition of open source set out by the Open Source Initiative.
+
+"The license must not restrict anyone from making use of the program in a specific field of endeavor," the organization's definition says. "For example, it may not restrict the program from being used in a business, or from being used for genetic research."
+
+Evan You, the Chinese-American developer behind the open source programming framework Vue, says he's "empathetic to developers that have to deal with 996" but that Vue won't adopt the Anti-996 License.
+
+"I believe open source software should be free for all, and adding discriminatory clauses is against the very spirit of free software," You says. "It's also a slippery slope: If it's considered good practice to add Anti-996 clauses today, then it's only a matter of time for open source software to add clauses that block out anyone who doesn't hold the same ideological stance as its author."
+
+Meeker says the Anti-996 License is more professional than most other activist licenses she's seen, but it might be hard to enforce. "The consequence of violating a license condition is only a loss of rights to use the software," she says.
