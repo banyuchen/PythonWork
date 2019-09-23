@@ -2,33 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4f314b0-a787-4a20-8a63-e59bd4dd8593" name="Default Changelist" comment="提交代码">
-      <change beforePath="$PROJECT_DIR$/.idea/PythonWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonWork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/函数/db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/函数/初始函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程/12、回调函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程/13、爬取数据的例子.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程/ticket" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程/事件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程/使用多进程实现socket服务端的并发效果/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程/使用多进程实现socket服务端的并发效果/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程/使用多进程实现socket服务端的并发效果/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程/信号量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程/初识队列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程/多进程中的几个方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程/多进程之间的数据隔离问题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程/守护进程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程/开启多进程第二种方式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程/生产者消费者模型.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程/管道.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程/进程之间的数据共享.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程/进程锁.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/网络编程/信号量.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/core/Manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/core/Manager.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/core/Teacher.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/core/Teacher.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/core/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/core/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ftpWork/client/bin/start.py" beforeDir="false" afterPath="$PROJECT_DIR$/ftpWork/client/bin/start.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ftpWork/client/core/auth_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/ftpWork/client/core/auth_client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ftpWork/client/core/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/ftpWork/client/core/client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ftpWork/client/core/socket_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/ftpWork/client/core/socket_client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ftpWork/server/bin/start.py" beforeDir="false" afterPath="$PROJECT_DIR$/ftpWork/server/bin/start.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ftpWork/server/core/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/ftpWork/server/core/server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ftpWork/server/core/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ftpWork/server/core/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/使用API/bar_descriptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/使用API/bar_descriptions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/使用API/自动化打包2.py" beforeDir="false" afterPath="$PROJECT_DIR$/使用API/自动化打包2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/类/dog.py" beforeDir="false" afterPath="$PROJECT_DIR$/类/dog.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/类/接口类.py" beforeDir="false" afterPath="$PROJECT_DIR$/类/接口类.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/网络编程/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/网络编程/client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/网络编程/client1.py" beforeDir="false" afterPath="$PROJECT_DIR$/网络编程/client1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/网络编程/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/网络编程/server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/网络编程/subprocess_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/网络编程/subprocess_demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面向对象/my.py" beforeDir="false" afterPath="$PROJECT_DIR$/面向对象/my.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面向对象/初识面向对象.py" beforeDir="false" afterPath="$PROJECT_DIR$/面向对象/初识面向对象.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面向对象/加密.py" beforeDir="false" afterPath="$PROJECT_DIR$/面向对象/加密.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面向对象/反射.py" beforeDir="false" afterPath="$PROJECT_DIR$/面向对象/反射.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面向对象/多继承.py" beforeDir="false" afterPath="$PROJECT_DIR$/面向对象/多继承.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面向对象/面向对象映入.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/面向对象/面向对象的引入.py" beforeDir="false" afterPath="$PROJECT_DIR$/面向对象/面向对象的引入.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数/2.作业.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数/file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数/formatted_name.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数/log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数/make_pizzas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数/move_info7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数/person.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数/pets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数/pizza.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数/print_models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数/register.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数/user_profile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数/函数.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数/匿名函数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数/正则表达式.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数/爬虫例子.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数/生成器.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数/生成器表达式.py" beforeDir="false" afterPath="$PROJECT_DIR$/使用API/微信秒回.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数/监听文件输入的例子.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数/装饰器.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数/递归函数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/理论.py" beforeDir="false" afterPath="$PROJECT_DIR$/多线程/理论.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,95 +73,33 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ftpWork/client/bin/start.py">
+        <entry file="file://$PROJECT_DIR$/多线程/进程锁.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            <state relative-caret-position="252">
+              <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#0#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ftpWork/server/core/server.py">
+        <entry file="file://$PROJECT_DIR$/多线程/进程之间的数据共享.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ftpWork/client/core/socket_client.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ftpWork/client/core/auth_client.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/使用API/自动化打包2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/使用API/python_repos.svg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/使用API/python_repos.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="26" column="48" lean-forward="true" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="252">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/使用API/bar_descriptions.py">
+        <entry file="file://$PROJECT_DIR$/使用API/自动化打包2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ftpWork/server/bin/start.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="388">
+              <caret line="132" column="20" lean-forward="true" selection-start-line="132" selection-start-column="20" selection-end-line="132" selection-end-column="20" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -160,7 +116,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>file</find>
       <find>File</find>
       <find>filename</find>
       <find>请输入密码</find>
@@ -190,6 +145,7 @@
       <find>html</find>
       <find>smtp.qq.com</find>
       <find>smtp_server</find>
+      <find>User</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -201,28 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/函数/log.json" />
-        <option value="$PROJECT_DIR$/函数/log.txt" />
-        <option value="$PROJECT_DIR$/函数/装饰器.py" />
-        <option value="$PROJECT_DIR$/测试代码/test_collections.py" />
-        <option value="$PROJECT_DIR$/函数/生成器表达式.py" />
-        <option value="$PROJECT_DIR$/函数/2.作业.py" />
-        <option value="$PROJECT_DIR$/函数/生成器.py" />
-        <option value="$PROJECT_DIR$/函数/file.txt" />
-        <option value="$PROJECT_DIR$/函数/匿名函数.py" />
-        <option value="$PROJECT_DIR$/函数/递归函数.py" />
-        <option value="$PROJECT_DIR$/函数/正则表达式.py" />
-        <option value="$PROJECT_DIR$/../python视频/day18/day18课堂笔记/3.爬虫的例子.py" />
-        <option value="$PROJECT_DIR$/函数/爬虫例子.py" />
-        <option value="$PROJECT_DIR$/函数/pets.py" />
-        <option value="$PROJECT_DIR$/使用API/iOS自动化打包.py" />
-        <option value="$PROJECT_DIR$/使用API/Andromeda-master/code/send_email.py" />
-        <option value="$PROJECT_DIR$/使用API/Andromeda-master/code/to_fir.py" />
-        <option value="$PROJECT_DIR$/使用API/自动化打包3.py" />
-        <option value="$PROJECT_DIR$/面向对象/面向对象映入.py" />
-        <option value="$PROJECT_DIR$/面向对象/继承.py" />
-        <option value="$PROJECT_DIR$/面向对象/多继承.py" />
-        <option value="$PROJECT_DIR$/Practice/conf/config.py" />
         <option value="$PROJECT_DIR$/Practice/core/main.py" />
         <option value="$PROJECT_DIR$/Practice/core/Manager.py" />
         <option value="$PROJECT_DIR$/Practice/bin/start.py" />
@@ -250,15 +184,37 @@
         <option value="$PROJECT_DIR$/ftpWork/client/core/client.py" />
         <option value="$PROJECT_DIR$/ftpWork/client/core/socket_client.py" />
         <option value="$PROJECT_DIR$/ftpWork/client/core/auth_client.py" />
-        <option value="$PROJECT_DIR$/使用API/自动化打包2.py" />
+        <option value="$PROJECT_DIR$/网络编程/信号量.py" />
+        <option value="$PROJECT_DIR$/使用API/微信秒回.py" />
         <option value="$PROJECT_DIR$/使用API/bar_descriptions.py" />
+        <option value="$PROJECT_DIR$/多线程/理论.py" />
+        <option value="$PROJECT_DIR$/多线程/多进程中的几个方法.py" />
+        <option value="$PROJECT_DIR$/多线程/多进程之间的数据隔离问题.py" />
+        <option value="$PROJECT_DIR$/多线程/使用多进程实现socket服务端的并发效果/server.py" />
+        <option value="$PROJECT_DIR$/多线程/使用多进程实现socket服务端的并发效果/client.py" />
+        <option value="$PROJECT_DIR$/多线程/守护进程.py" />
+        <option value="$PROJECT_DIR$/多线程/ticket" />
+        <option value="$PROJECT_DIR$/多线程/进程锁.py" />
+        <option value="$PROJECT_DIR$/多线程/初始队列.py" />
+        <option value="$PROJECT_DIR$/多线程/初识队列.py" />
+        <option value="$PROJECT_DIR$/多线程/生产者消费者模型.py" />
+        <option value="$PROJECT_DIR$/多线程/事件.py" />
+        <option value="$PROJECT_DIR$/多线程/信号量.py" />
+        <option value="$PROJECT_DIR$/函数/db" />
+        <option value="$PROJECT_DIR$/函数/初始函数.py" />
+        <option value="$PROJECT_DIR$/多线程/管道.py" />
+        <option value="$PROJECT_DIR$/多线程/开启多进程第二种方式.py" />
+        <option value="$PROJECT_DIR$/多线程/进程之间的数据共享.py" />
+        <option value="$PROJECT_DIR$/多线程/12、回调函数.py" />
+        <option value="$PROJECT_DIR$/多线程/13、爬取数据的例子.py" />
+        <option value="$PROJECT_DIR$/使用API/自动化打包2.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1920" />
-    <option name="height" value="1057" />
+    <option name="height" value="1012" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -268,8 +224,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PythonWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonWork" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonWork" type="462c0819:PsiDirectoryNode" />
+              <item name="使用API" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -277,8 +248,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/ftpWork/client" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -316,8 +290,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.bar_descriptions">
-    <configuration name="继承" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.自动化打包2">
+    <configuration name="信号量" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -325,12 +299,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/面向对象" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/面向对象/继承.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/信号量.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="13、爬取数据的例子" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/13、爬取数据的例子.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -361,7 +357,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="面向对象的引入" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="接口类" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -369,12 +365,100 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/面向对象" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/类" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/面向对象/面向对象的引入.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/类/接口类.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="多进程中的几个方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/多进程中的几个方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="初始函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/函数" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/函数/初始函数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="进程之间的数据共享" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/进程之间的数据共享.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="开启多进程第二种方式" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/开启多进程第二种方式.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -405,6 +489,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="进程锁" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/进程锁.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="递归函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -419,6 +525,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/函数/递归函数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="生产者消费者模型" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/生产者消费者模型.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -449,7 +577,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="生成器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="初始函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -462,7 +590,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/函数/生成器.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/函数/初始函数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -485,6 +613,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/面向对象/面向对象的引入.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="初始函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/函数" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/函数/初始函数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="守护进程" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/守护进程.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -515,6 +687,160 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="微信秒回" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/使用API" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/使用API/微信秒回.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="初始函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/函数" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/函数/初始函数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="生成器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/函数" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/函数/生成器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="初始函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/函数" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/函数/初始函数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="信号量" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/网络编程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网络编程/信号量.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="微信秒回" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/使用API" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/使用API/微信秒回.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="初识队列" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/初识队列.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="面向对象的引入" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -537,7 +863,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="接口类" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="面向对象的引入" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -545,12 +871,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/类" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/面向对象" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/类/接口类.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/面向对象/面向对象的引入.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -559,7 +885,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bar_descriptions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="管道" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -567,12 +893,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/使用API" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/使用API/bar_descriptions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/管道.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -581,7 +907,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="client (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="事件" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -589,12 +915,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ftpWork/client/core" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ftpWork/client/core/client.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/事件.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -603,7 +929,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="start (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="初始函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -611,12 +937,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ftpWork/client/bin" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/函数" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ftpWork/client/bin/start.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/函数/初始函数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -625,7 +951,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -633,12 +959,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ftpWork/server/bin" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程/使用多进程实现socket服务端的并发效果" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ftpWork/server/bin/start.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/使用多进程实现socket服务端的并发效果/client.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -648,20 +974,17 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.client" />
+      <item itemvalue="Python.信号量" />
+      <item itemvalue="Python.13、爬取数据的例子" />
       <item itemvalue="Python.自动化打包2" />
-      <item itemvalue="Python.继承" />
-      <item itemvalue="Python.bar_descriptions" />
-      <item itemvalue="Python.client (1)" />
-      <item itemvalue="Python.start (1)" />
-      <item itemvalue="Python.start" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.bar_descriptions" />
         <item itemvalue="Python.自动化打包2" />
-        <item itemvalue="Python.start (1)" />
-        <item itemvalue="Python.start" />
-        <item itemvalue="Python.client (1)" />
+        <item itemvalue="Python.13、爬取数据的例子" />
+        <item itemvalue="Python.client" />
+        <item itemvalue="Python.信号量" />
       </list>
     </recent_temporary>
   </component>
@@ -722,6 +1045,49 @@
       <workItem from="1561194473582" duration="6280000" />
       <workItem from="1561339558139" duration="8721000" />
       <workItem from="1562036308999" duration="15000" />
+      <workItem from="1562049067781" duration="3027000" />
+      <workItem from="1562296021399" duration="1429000" />
+      <workItem from="1562379610992" duration="761000" />
+      <workItem from="1562394976783" duration="399000" />
+      <workItem from="1562554412656" duration="470000" />
+      <workItem from="1562640658439" duration="244000" />
+      <workItem from="1562659116774" duration="526000" />
+      <workItem from="1562751234405" duration="208000" />
+      <workItem from="1562903130247" duration="1619000" />
+      <workItem from="1563778060434" duration="383000" />
+      <workItem from="1563958943122" duration="621000" />
+      <workItem from="1564536595259" duration="350000" />
+      <workItem from="1565496996535" duration="655000" />
+      <workItem from="1565682625422" duration="468000" />
+      <workItem from="1565683573477" duration="327000" />
+      <workItem from="1565688800484" duration="440000" />
+      <workItem from="1565856211017" duration="1177000" />
+      <workItem from="1565858550523" duration="360000" />
+      <workItem from="1566299652573" duration="2201000" />
+      <workItem from="1566540894758" duration="1405000" />
+      <workItem from="1566784474341" duration="9029000" />
+      <workItem from="1566870221530" duration="5437000" />
+      <workItem from="1566898601062" duration="893000" />
+      <workItem from="1566960609718" duration="15131000" />
+      <workItem from="1567000916271" duration="18279000" />
+      <workItem from="1567130200363" duration="588000" />
+      <workItem from="1567388552049" duration="8117000" />
+      <workItem from="1567482738842" duration="6243000" />
+      <workItem from="1567498399649" duration="349000" />
+      <workItem from="1567498783012" duration="5003000" />
+      <workItem from="1567515828352" duration="297000" />
+      <workItem from="1567561664345" duration="12237000" />
+      <workItem from="1567647123783" duration="14449000" />
+      <workItem from="1567732728291" duration="17730000" />
+      <workItem from="1567993091733" duration="7456000" />
+      <workItem from="1568079508268" duration="1557000" />
+      <workItem from="1568109172175" duration="652000" />
+      <workItem from="1568774852081" duration="941000" />
+      <workItem from="1568859856012" duration="1392000" />
+      <workItem from="1568949756456" duration="1151000" />
+      <workItem from="1569029808234" duration="432000" />
+      <workItem from="1569046897045" duration="1024000" />
+      <workItem from="1569203321351" duration="728000" />
     </task>
     <task id="LOCAL-00001" summary="无修改">
       <created>1554739301804</created>
@@ -808,7 +1174,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="205828000" />
+    <option name="totallyTimeSpent" value="352013000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -820,9 +1186,36 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1057" extended-state="0" />
+    <frame x="0" y="23" width="1920" height="1012" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49637306" visible="true" weight="0.11980831" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49637306" visible="true" weight="0.20979765" />
+      <window_info id="Structure" order="1" sideWeight="0.50362694" side_tool="true" weight="0.11980831" />
+      <window_info id="Favorites" order="2" sideWeight="0.50362694" side_tool="true" weight="0.11980831" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49893504" weight="0.32934782" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7369542" weight="0.2804348" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.62247074" weight="0.42391303" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.26839378" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4985694" weight="0.54818654" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.2630458" side_tool="true" weight="0.23586957" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4985694" weight="0.32953367" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32934782" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32934782" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49637306" visible="true" weight="0.12087327" />
       <window_info id="Structure" order="1" sideWeight="0.50362694" side_tool="true" weight="0.11980831" />
       <window_info id="Favorites" order="2" sideWeight="0.50362694" side_tool="true" weight="0.11980831" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -846,7 +1239,7 @@
       <window_info anchor="right" id="R Graphics" order="4" />
       <window_info anchor="right" id="R Packages" order="5" />
       <window_info anchor="right" id="Database" order="6" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -878,10 +1271,10 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonWork$client__1_.coverage" NAME="client (1) Coverage Results" MODIFIED="1560481969936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ftpWork/client/core" />
     <SUITE FILE_PATH="coverage/PythonWork$number_reader.coverage" NAME="number_reader Coverage Results" MODIFIED="1554738837831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件和异常" />
-    <SUITE FILE_PATH="coverage/PythonWork$server.coverage" NAME="server Coverage Results" MODIFIED="1560411047568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/网络编程" />
+    <SUITE FILE_PATH="coverage/PythonWork$server.coverage" NAME="server Coverage Results" MODIFIED="1566987560003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程/使用多进程实现socket服务端的并发效果" />
     <SUITE FILE_PATH="coverage/PythonWork$my.coverage" NAME="my Coverage Results" MODIFIED="1559642796641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象" />
     <SUITE FILE_PATH="coverage/PythonWork$remember_me.coverage" NAME="remember_me Coverage Results" MODIFIED="1554964260415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件和异常" />
-    <SUITE FILE_PATH="coverage/PythonWork$2.coverage" NAME="自动化打包2 Coverage Results" MODIFIED="1561458154689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/使用API" />
+    <SUITE FILE_PATH="coverage/PythonWork$2.coverage" NAME="自动化打包2 Coverage Results" MODIFIED="1569203335016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/使用API" />
     <SUITE FILE_PATH="coverage/PythonWork$python_repos.coverage" NAME="python_repos Coverage Results" MODIFIED="1554822850946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/生成数据" />
     <SUITE FILE_PATH="coverage/PythonWork$Andromeda.coverage" NAME="Andromeda Coverage Results" MODIFIED="1556247971260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/使用API/Andromeda-master/code" />
     <SUITE FILE_PATH="coverage/PythonWork$greet_user.coverage" NAME="greet_user Coverage Results" MODIFIED="1554813927564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件和异常" />
@@ -890,8 +1283,9 @@
     <SUITE FILE_PATH="coverage/PythonWork$start__1_.coverage" NAME="start (1) Coverage Results" MODIFIED="1560498153789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ftpWork/client/bin" />
     <SUITE FILE_PATH="coverage/PythonWork$Unittests_for_test_name_function_NamesTestCase.coverage" NAME="Unittests for test_name_function.NamesTestCase Coverage Results" MODIFIED="1554817936904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试代码" />
     <SUITE FILE_PATH="coverage/PythonWork$number_write.coverage" NAME="number_write Coverage Results" MODIFIED="1554738585848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件和异常" />
-    <SUITE FILE_PATH="coverage/PythonWork$bar_descriptions.coverage" NAME="bar_descriptions Coverage Results" MODIFIED="1561459413800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/使用API" />
-    <SUITE FILE_PATH="coverage/PythonWork$client.coverage" NAME="client Coverage Results" MODIFIED="1560481932763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/网络编程" />
+    <SUITE FILE_PATH="coverage/PythonWork$bar_descriptions.coverage" NAME="bar_descriptions Coverage Results" MODIFIED="1566547565074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/使用API" />
+    <SUITE FILE_PATH="coverage/PythonWork$client.coverage" NAME="client Coverage Results" MODIFIED="1567739025016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程/使用多进程实现socket服务端的并发效果" />
+    <SUITE FILE_PATH="coverage/PythonWork$13.coverage" NAME="13、爬取数据的例子 Coverage Results" MODIFIED="1567750035948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程" />
     <SUITE FILE_PATH="coverage/PythonWork$3_.coverage" NAME="3.爬虫的例子 Coverage Results" MODIFIED="1556072573467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../python视频/day18/day18课堂笔记" />
     <SUITE FILE_PATH="coverage/PythonWork$iOS.coverage" NAME="iOS自动化打包 Coverage Results" MODIFIED="1556201364953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/使用API" />
     <SUITE FILE_PATH="coverage/PythonWork$client1.coverage" NAME="client1 Coverage Results" MODIFIED="1560308551387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/网络编程" />
@@ -899,7 +1293,7 @@
     <SUITE FILE_PATH="coverage/PythonWork$alice.coverage" NAME="alice Coverage Results" MODIFIED="1555054009937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件和异常" />
     <SUITE FILE_PATH="coverage/PythonWork$Unittests_in_test_name_function_py.coverage" NAME="Unittests in test_name_function.py Coverage Results" MODIFIED="1554817997414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试代码" />
     <SUITE FILE_PATH="coverage/PythonWork$python_repos__1_.coverage" NAME="python_repos (1) Coverage Results" MODIFIED="1554960028424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/使用API" />
-    <SUITE FILE_PATH="coverage/PythonWork$.coverage" NAME="初识面向对象 Coverage Results" MODIFIED="1559627792683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象" />
+    <SUITE FILE_PATH="coverage/PythonWork$.coverage" NAME="进程之间的数据共享 Coverage Results" MODIFIED="1567739320122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程" />
     <SUITE FILE_PATH="coverage/PythonWork$start.coverage" NAME="start Coverage Results" MODIFIED="1560498151332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ftpWork/server/bin" />
     <SUITE FILE_PATH="coverage/PythonWork$formatted_name.coverage" NAME="formatted_name Coverage Results" MODIFIED="1555670040618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数" />
     <SUITE FILE_PATH="coverage/PythonWork$3.coverage" NAME="自动化打包3 Coverage Results" MODIFIED="1556271218894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/使用API" />
@@ -908,145 +1302,8 @@
     <SUITE FILE_PATH="coverage/PythonWork$hashlib.coverage" NAME="hashlib Coverage Results" MODIFIED="1559725913811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/smtplib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="225" column="8" selection-start-line="225" selection-start-column="8" selection-end-line="225" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/使用API/自动化打包3.py" />
-    <entry file="file://$PROJECT_DIR$/面向对象/面向对象映入.py" />
-    <entry file="file://$PROJECT_DIR$/.vscode/launch.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.vscode/settings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面向对象/面向对象引入.py" />
-    <entry file="file://$PROJECT_DIR$/Practice/core/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/core/Manager.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/bin/start.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/core/Teacher.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/类/接口类.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/类/dog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/类/封装.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/类/car.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/类/my_electric_car.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面向对象/继承.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面向对象/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面向对象/多继承.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面向对象/面向对象的引入.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/db/userinfo">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面向对象/初识面向对象.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/conf/config.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-514226634/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="180" selection-start-line="180" selection-end-line="180" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-514226634/sys.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="634" selection-start-line="634" selection-end-line="634" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面向对象/反射.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/函数/file.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/函数/make_pizzas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/函数/file.txt" />
+    <entry file="file://$PROJECT_DIR$/函数/make_pizzas.py" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3405">
@@ -1172,36 +1429,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ftpWork/client/core/auth_client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/使用API/自动化打包2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/使用API/python_repos.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/使用API/python_repos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="26" column="48" lean-forward="true" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ftpWork/server/bin/start.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -1212,10 +1439,238 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ftpWork/client/core/auth_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/使用API/python_repos.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/使用API/python_repos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../新零售/new_retailcliend_iOS/NewRetailCliend/Pods/ZBarSDK/include/zbar.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/使用API/QR.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/使用API/微信秒回.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/网络编程/信号量.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/使用API/bar_descriptions.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/使用多进程实现socket服务端的并发效果/server.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/使用多进程实现socket服务端的并发效果/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/理论.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding>
+            <element signature="e#6#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/事件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/ticket">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/multiprocessing/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="52" column="32" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/django/utils/synch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/函数/db">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/函数/初始函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="49" lean-forward="true" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/生产者消费者模型.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="55" column="10" lean-forward="true" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
+          <folding>
+            <element signature="e#25#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/管道.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/信号量.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/开启多进程第二种方式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/进程锁.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/进程之间的数据共享.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/12、回调函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/初识队列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/多进程之间的数据隔离问题.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/守护进程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#22#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/13、爬取数据的例子.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/多进程中的几个方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/使用API/自动化打包2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="132" column="20" lean-forward="true" selection-start-line="132" selection-start-column="20" selection-end-line="132" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

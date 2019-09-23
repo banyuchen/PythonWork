@@ -7,8 +7,8 @@ from email.header import Header
 from email.utils import parseaddr, formataddr
 
 # 项目目录
-project_name = 'NewRetailCliend'    # 项目名称
-archive_workspace_path = '/Users/wenzheng/Desktop/新零售/new_retailcliend_iOS/NewRetailCliend'    # 项目路径
+project_name = 'ZSSecurityProtective'    # 项目名称
+archive_workspace_path = '/Users/wenzheng/Desktop/安防/ZSSecurityProtective/ZSSecurityProtective'    # 项目路径
 export_directory = 'archive'    # 输出的文件夹
 ipa_download_url = 'https://www.pgyer.com/manager/dashboard/app/01a3495fa4d009b85320c76082637481' #蒲公英的APP地址
 
@@ -19,8 +19,9 @@ API_KEY = 'c1eec1c0f1344316f71dc08e45f8aef1'
 # 发送通知到邮箱
 from_address = '1204470409@qq.com'    # 发送人的地址
 password = 'lgrpuxfyfsbehddh'  # 邮箱密码换成他提供的16位授权码
-to_address = ['1204470409@qq.com', '3366432696@qq.com', "243065157@qq.com", '1961594244@qq.com']    # 收件人地址,可以是多个的
+to_address = ['1204470409@qq.com','1961594244@qq.com', '1445709585@qq.com', '956366129@qq.com']    # 收件人地址,可以是多个的
 smtp_server = 'smtp.qq.com'    # 因为我是使用QQ邮箱.
+
 
 class AutoArchive(object):
     """自动打包并上传到蒲公英"""
